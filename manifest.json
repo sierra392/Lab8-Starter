@@ -1,11 +1,11 @@
 {
-    "name": "",
-    "short_name": "",
-    "description": "",
+    "name": "Lab8-Starter",
+    "short_name": "Sierra_Myers",
+    "description": "lab 8 website",
     "start_url": "",
-    "display": "",
-    "background_color": "",
-    "theme_color": "",
+    "display": "fullscreen",
+    "background_color": "blue",
+    "theme_color": "green",
     "icons": [
       {
         "src": "/assets/images/icons/icon-192x192.png",
