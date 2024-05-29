@@ -21,7 +21,7 @@ self.addEventListener('install', function (event) {
     })
   );
 });
-
+//new comment
 // Activates the service worker
 self.addEventListener('activate', function (event) {
   event.waitUntil(self.clients.claim());
